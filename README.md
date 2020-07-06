@@ -15,7 +15,7 @@
   
 #### 2. [Download this mods.rar](https://www.dropbox.com/s/2oz9k5sqqyx84y0/mods.rar?dl=0)
   
-  - This mod folder will need to into your Minecraft directory (C:\Users\USERNAME\AppData\Roaming\.minecraft)
+  - This mod folder will need to into your Minecraft directory (C:\Users\USERNAME\AppData\Roaming\\.minecraft)
   - To get here easier, Press Win + R and type "%appdata%" this should take you to your "Roaming" folder
   - Simply extract the Rar to your Minecraft directory
   - [See here for help](https://i.gyazo.com/b27434f7f7b1406db7df28ff68e71a04.mp4)
