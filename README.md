@@ -36,7 +36,7 @@
   
 #### JVM Arguments
   - In the same instance, change your JVM Arguments to the following: -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC
-  - NOTE: To start, this gives Minecraft 4GB of memory to use, If you don't have that much, do not change this.
+  - NOTE: This gives Minecraft 4GB of memory to use, If you don't have that much, do not change this.
   
 #### Other Stuff
   - Personally, I recieve a massive perfomance boost in fullscreen, give it a try
