@@ -29,7 +29,7 @@
 
 #### Java 14
   - Downloading Java 14 can really help with Minecraft's dumb code
-  - Go to this link, and download the latest OpenJDK 14 zip. [See here](https://gyazo.com/393a17c809aac84f91ce952e646ff0bc)
+  - [Go to this link](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot), and download the latest OpenJDK 14 zip. [See here](https://gyazo.com/393a17c809aac84f91ce952e646ff0bc)
   - Extract the zip to your java folder (Usually C:\Program Files\Java)
   - Now in the Minecraft launcher, change your instances java executable to your new Java version. [See here for help](https://i.gyazo.com/035ae2df332a6677c04f8c205707b8bf.mp4)
   - All done
