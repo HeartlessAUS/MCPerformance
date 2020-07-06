@@ -5,7 +5,8 @@
 2. Probably still not compatable with Optifine/OptiFabric
 3. Will probably never be made for forge, because forge sucks now
 4. Don't have a potato of a machine? skip all of this and just download Optifine instead: [here](https://optifine.net/downloads) (check preview builds)
-### lets start:
+
+## lets start:
 
 #### 1. You'll need to download fabric by yourself
 
@@ -20,14 +21,23 @@
   - Simply extract the Rar to your Minecraft directory
   - [See here for help](https://i.gyazo.com/b27434f7f7b1406db7df28ff68e71a04.mp4)
 
-#### 3. Start Game and make sure it works well
+#### 3. Start Game and make sure it works (Make sure its on the correct instance!)
 
-### Bonus stuff
+#### Mods that were included in this pack:
+  - FabricAPI (Required for most mods to function)
+  - CleanView (Less performance help, more cleaning up Mojang's mistakes in making particles get in yo face)
+  - Mod Menu (A cute little modmenu for fabric)
+  - Phosphor (Cleans up Minecraft's crappy light coding)
+  - Lithium (Optimises a number of systems in minecraft's code)
+  - Sodium (The big cleaner, basically fixes all of Mojang's mistakes with... well everything)
+
+## Bonus stuff
 #### WARNING: These are more advanced and could have issues if done incorrectly!
 #### If you dont know what you are doing, don't bother with these!
 #### If you have a 32bit PC, don't do with this, if you don't know if you do or not, don't bother.
 
 #### Java 14
+
   - Downloading Java 14 can really help with Minecraft's dumb code
   - [Go to this link](https://adoptopenjdk.net/releases.html?variant=openjdk14&jvmVariant=hotspot), and download the latest OpenJDK 14 zip. [See here](https://gyazo.com/393a17c809aac84f91ce952e646ff0bc)
   - Extract the zip to your java folder (Usually C:\Program Files\Java)
@@ -35,10 +45,12 @@
   - All done
   
 #### JVM Arguments
+
   - In the same instance, change your JVM Arguments to the following: -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC
   - NOTE: This gives Minecraft 4GB of memory to use, If you don't have that much, do not change this.
   
-### Other Stuff
+## Other Stuff
+
   - Personally, I recieve a massive perfomance boost in fullscreen, give it a try
   - Turn render distance down to 10-12, that should be enough
   - Try different settings ingame to see if anything helps for you
