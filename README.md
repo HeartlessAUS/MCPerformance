@@ -47,7 +47,7 @@
 #### JVM Arguments
 
   - In the same instance, change your JVM Arguments to the following: -Xmx4G -XX:+UnlockExperimentalVMOptions -XX:+UseZGC
-  - NOTE: This gives Minecraft 4GB of memory to use, If you don't have that much, do not change this.
+  - NOTE: This gives Minecraft 4GB of memory to use, If you don't have that much to spare for Minecraft alone, do not change this.
   - Changing "-Xmx4G" will change the amount of memory Minecraft can use, but putting it too high will cause more issues.
   - Safe ranges vary from person to person, in my personal opinion, 2GB up to 10GB are safe.
   
